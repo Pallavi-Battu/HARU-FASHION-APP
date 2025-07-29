@@ -3,7 +3,7 @@
 ![Haru-Fashion Responsive Design (2)](https://user-images.githubusercontent.com/53733092/139094836-3c75c8fa-4f7a-43a7-b8c8-7cf45af53b71.png)
 ![ts](https://badgen.net/badge/Built%20With/TypeScript/blue) ![vercel](https://img.shields.io/github/deployments/satnaing/e-commerce/production?label=vercel&logo=vercel&logoColor=white) [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-An e-commerce web application developed with Next.JS and TypeScript. Tailwind CSS is used for styling and React's Context API is used for state management. Custom REST API is used as a backend ([Haru API](https://github.com/satnaing/haru-api)).
+An e-commerce web application developed with Next.JS and TypeScript. Tailwind CSS is used for styling and React's Context API is used for state management. 
 
 ## Demo
 
@@ -38,7 +38,7 @@ An e-commerce web application developed with Next.JS and TypeScript. Tailwind CS
 **Styling** - Tailwind CSS  
 **Design & Prototype** - Figma  
 **State Management** - ContextAPI  
-**Backend** - [Haru API](https://github.com/satnaing/haru-api) (Previous Version - Firebase)  
+
 **Containerization:** Docker  
 **Deployment** Vercel
 
@@ -74,13 +74,3 @@ Start the server
 npm run dev
 ```
 
-## Inspiration and Credits
-
-Even though I wrote every single line of code for this web app, images and some design are inspired and used from the following websites.
-
-- [Goya WordPress Premium Theme](https://goya.everthemes.com/demo-fashion/)
-- [Lusion WordPress Premium Theme](https://hn.arrowpress.net/lusion/home-minimalist/?currency=USD)
-
-## Author
-
-- [@satnaing](https://github.com/satnaing)
